@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 053fe39d55dbe304884f8a03a3cb7512, type: 3}
+  m_Name: Closing Dialogue 01
+  m_EditorClassIdentifier: 
+  name: Los
+  isFinished: 0
+  sentences:
+  - "Hey\t"
+  - Scewq you
+  - Fwqqer
+  NextDialogue: {fileID: 11400000, guid: 06658ec7ea068e14fa7da21a745103b2, type: 2}
